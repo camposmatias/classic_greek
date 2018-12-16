@@ -15,9 +15,10 @@ Las nociones gramaticales básicas del griego clásico se digitalizan mediante l
 
 Autor: Matías Ignacio Campos
 
+Argentina, Buenos Aires, 2018.
+
 Versión 1.0.0.
 
-Argentina, Buenos Aires, 2018.
 
 <camposm@filo.uba.ar> | <campos.matias@gmail.com> 
 
